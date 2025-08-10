@@ -1,0 +1,9 @@
+[submodule "Spout2"]
+	path = Spout2
+	url = https://github.com/leadedge/Spout2.git
+[submodule "kit-app-template"]
+	path = kit-app-template
+	url = https://github.com/NVIDIA-Omniverse/kit-app-template.git
+[submodule "kit-extension-template-cpp"]
+	path = kit-extension-template-cpp
+	url = https://github.com/NVIDIA-Omniverse/kit-extension-template-cpp.git
